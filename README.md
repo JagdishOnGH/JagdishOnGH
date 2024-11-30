@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagdish Ghimire</h1>
-<h3 align="center">A Freelance software developer</h3>
+<h3 align="center">A Person who speaks solution in programming...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdishongh&label=Profile%20views&color=0e75b6&style=flat" alt="jagdishongh" /> </p>
 
