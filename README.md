@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagdishongh&show_icons=true&locale=en" alt="jagdishongh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdishongh&theme=highcontrast" alt="jagdishongh" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=JagdishOnGH" alt="jagdishongh" /></p>
